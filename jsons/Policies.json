@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Stellar Expansion",
+    "uniques": ["+25% Production toward space and colonist units", "+1 free settler or colonist on policy adoption"],
+    "requiredPolicies": ["Exploration"]
+  },
+  {
+    "name": "Technocratic Governance",
+    "uniques": ["+30% Science", "+15% Science from buildings"],
+    "requiredPolicies": ["Rationalism"]
+  },
+  {
+    "name": "Galactic Militarism",
+    "uniques": ["+20% Strength for all units", "+15% Production toward military units"],
+    "requiredPolicies": ["Autocracy"]
+  }
+]

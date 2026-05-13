@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Orbital Construction",
+    "cost": 120,
+    "uniques": ["Unlocks Orbital Habitat and Research Outpost"]
+  },
+  {
+    "name": "FTL Propulsion",
+    "cost": 200,
+    "uniques": ["+2 movement for all space units", "Enables faster colonization"]
+  },
+  {
+    "name": "Mega-Engineering",
+    "cost": 350,
+    "uniques": ["Unlocks Dyson Swarm Segment and advanced terraforming"]
+  },
+  {
+    "name": "Artificial Intelligence",
+    "cost": 180,
+    "uniques": ["+20% Science", "Robotic units gain +5 strength"]
+  },
+  {
+    "name": "First Contact Protocols",
+    "cost": 100,
+    "uniques": ["Enables First Contact Center", "+10% Culture from exploration"]
+  }
+]

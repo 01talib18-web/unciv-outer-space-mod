@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Terran Federation",
+    "leaderName": "Admiral Elena Voss",
+    "adjective": "Terran",
+    "color": ["#1E3A8A", "#FBBF24"],
+    "cityNames": ["New Terra", "Luna Base", "Mars Colony", "Europa Outpost", "Titan Station", "Proxima Prime"],
+    "startBias": ["Coast", "Plains"],
+    "uniques": ["+20% Science from coastal cities", "+15% Production toward space units", "May establish extra colonies early"]
+  },
+  {
+    "name": "Xylos Hive",
+    "leaderName": "Queen Vexara",
+    "adjective": "Xylos",
+    "color": ["#4B0082", "#00FF9F"],
+    "cityNames": ["Hive Core", "Spore World", "Bio-Forge", "Nest Alpha", "Symbiont Hub"],
+    "startBias": ["Forest", "Hill"],
+    "uniques": ["+25% Growth", "Units heal faster on foreign territory", "+10% Strength for biological units"]
+  },
+  {
+    "name": "Mechanon Collective",
+    "leaderName": "Prime Directive",
+    "adjective": "Mechanon",
+    "color": ["#374151", "#06B6D4"],
+    "cityNames": ["Forge Prime", "Data Nexus", "Assembly World", "Logic Spire", "Quantum Core"],
+    "startBias": ["Desert", "Tundra"],
+    "uniques": ["+30% Science", "+20% Production from population", "Robotic units require no food"]
+  }
+]

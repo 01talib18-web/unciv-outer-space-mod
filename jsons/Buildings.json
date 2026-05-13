@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Orbital Habitat",
+    "cost": 100,
+    "maintenance": 2,
+    "uniques": ["+3 Housing", "+15% Growth in this city", "Enables orbital colonization"]
+  },
+  {
+    "name": "Research Outpost",
+    "cost": 80,
+    "maintenance": 1,
+    "uniques": ["+25% Science", "+2 Science per adjacent unimproved tile"]
+  },
+  {
+    "name": "Shipyard",
+    "cost": 120,
+    "maintenance": 2,
+    "uniques": ["+30% Production toward naval and space units", "Reduces space unit maintenance by 10%"]
+  },
+  {
+    "name": "Dyson Swarm Segment",
+    "cost": 250,
+    "maintenance": 5,
+    "uniques": ["+50% Energy/Science in this city", "Provides massive late-game power"]
+  },
+  {
+    "name": "Terraforming Array",
+    "cost": 150,
+    "maintenance": 3,
+    "uniques": ["+20% tile yield on improved tiles", "May convert hostile terrain to habitable"]
+  },
+  {
+    "name": "First Contact Center",
+    "cost": 90,
+    "maintenance": 1,
+    "uniques": ["+15% Science and Culture from first contact events", "Reduces diplomatic penalties with aliens"]
+  }
+]

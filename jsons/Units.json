@@ -1,0 +1,48 @@
+[
+  {
+    "name": "Colonist Ship",
+    "unitType": "Civilian",
+    "cost": 80,
+    "movement": 3,
+    "uniques": ["Can found cities on any terrain", "+1 sight", "May carry one settler unit"]
+  },
+  {
+    "name": "Star Fighter",
+    "unitType": "Melee",
+    "cost": 50,
+    "strength": 20,
+    "movement": 4,
+    "uniques": ["+50% Strength when attacking from space", "Can move after attacking"]
+  },
+  {
+    "name": "Heavy Cruiser",
+    "unitType": "Ranged",
+    "cost": 120,
+    "strength": 35,
+    "movement": 3,
+    "range": 2,
+    "uniques": ["+25% Strength vs cities", "Bombard strength 25"]
+  },
+  {
+    "name": "Terraformer",
+    "unitType": "Civilian",
+    "cost": 90,
+    "movement": 2,
+    "uniques": ["Can improve tiles faster", "+20% tile improvement speed", "May convert desert/tundra to plains"]
+  },
+  {
+    "name": "Science Vessel",
+    "unitType": "Civilian",
+    "cost": 70,
+    "movement": 3,
+    "uniques": ["+2 Science per turn when exploring", "Reveals hidden resources", "May conduct first contact"]
+  },
+  {
+    "name": "Battleship",
+    "unitType": "Melee",
+    "cost": 180,
+    "strength": 50,
+    "movement": 2,
+    "uniques": ["+30% Strength vs naval/space units", "Can bombard from range"]
+  }
+]
